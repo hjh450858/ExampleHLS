@@ -1,0 +1,6 @@
+framework module Pods_ExampleAVPlayer_ExampleAVPlayerUITests {
+  umbrella header "Pods-ExampleAVPlayer-ExampleAVPlayerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
